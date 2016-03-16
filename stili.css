@@ -19,6 +19,9 @@ telo {
 	padding: 10px;
 }
 
+
+
+
 .stroboskop {
 	margin: 0px; 
 	margin-bottom: 5px;
@@ -45,3 +48,15 @@ telo {
 #novaBarva, #odstraniBarve {
 	background: white;
 }
+
+
+.robInSenca{  
+   border: 1px solid transparent;   
+	border-color: Red;   
+    border-radius: 5px;   
+	box-shadow: 0 5px 10px 0 rgba(128, 128, 128, 0.2), 0 8px 20px 0 rgba(128, 128, 128, 0.2);  
+ }  
+  
+
+
+
